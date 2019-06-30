@@ -10,9 +10,11 @@ import lombok.NoArgsConstructor;
 public class Item {
 	//±àºÅ
 	private Integer id;
-	//Ãû³Æ
+	//ĞÕÃû
 	private String name;
 	private Integer number;
+	
+	//222222222222222
 	
 	//111111111111111
 	//33333333333333333333
